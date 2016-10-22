@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HSV Color Picker</string>
+    <string name="huetitle">Hue</string>
+    <string name="saturationtitle">Saturation</string>
+    <string name="valtitle">Value / Lightness</string>
+    <string name="degree">\\u00B0</string>
+    <string name="action_about">About</string>
+    <string name="author">Vaibhavi Desai (desa0068)</string>
+</resources>
